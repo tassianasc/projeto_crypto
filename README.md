@@ -54,7 +54,7 @@ Requer **Python 3.10+**.
 ### 🔐 1. Criptografar (Crypto.py)
 
 ```bash
-python Crypto.py "Sua Mensagem Secreta Aqui"
+python Crypto.py "Sua Mensagem"
 ```
 **Saída:**
 
