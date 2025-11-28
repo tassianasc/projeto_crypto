@@ -1,7 +1,6 @@
 ## 🎓 Projeto da Disciplina — Estrutura de Dados Avançados
 
 ---
-
 # 🔒 ASCII-Math Crypto
 
 O objetivo é demonstrar a aplicação da **Cifra Afim (Affine Cipher)** combinada com uma **Árvore Binária de Busca (BST)** para criptografar e descriptografar mensagens.  
