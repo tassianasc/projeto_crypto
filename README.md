@@ -85,5 +85,25 @@ python Decrypt.py
   "B": 8,
   "M": 256
 }
+```
+## 🧪 Exemplo de Execução
 
+```bash
+python Crypto.py "Olá Mundo"
+```
+**Sequência Criptografada:**
+
+[47, 228, 88, 255, 47, 88, 198, 88]
+
+**Travessia Pós-Ordem da BST:**
+
+[47, 88, 198, 255, 228, 88, 47]
+
+**Arquivo Msg.json criado com sucesso!**
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a **MIT License**.
 
