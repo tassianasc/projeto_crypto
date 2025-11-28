@@ -2,6 +2,7 @@
 
 **Professor:** Márcio Garrido  
 **Aluna:** Tássia Nascimento
+---
 
 # 🔒 ASCII-Math Crypto
 
