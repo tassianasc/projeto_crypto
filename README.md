@@ -13,7 +13,7 @@ O sistema transforma um texto em valores numéricos criptografados, armazena a s
  ┣ 📜 Decrypt.py
  ┣ 📜 Msg.json
  ┗ 📜 README.md
-´´´
+```
 ## 🔑 Criptografia Utilizada — Affine Cipher
 
 A Cifra Afim é definida pela fórmula:
