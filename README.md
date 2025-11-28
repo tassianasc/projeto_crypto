@@ -68,4 +68,22 @@ python Crypto.py "Sua Mensagem Secreta Aqui"
 
 ```bash
 python Decrypt.py
+```
+**Saída:**
+
+- Valor de `A⁻¹`
+- Mensagem original restaurada
+
+---
+
+## 📝 Exemplo de `Msg.json`
+
+```json
+{
+  "encrypted": [33, 201, 119, 87],
+  "A": 5,
+  "B": 8,
+  "M": 256
+}
+
 
