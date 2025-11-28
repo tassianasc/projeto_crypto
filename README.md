@@ -1,7 +1,6 @@
-# 🎓 Projeto da Disciplina — Estrutura de Dados Avançados
-
-*Professor:* Márcio Garrido  
-*Aluna:* Tássia Nascimento
+## 🎓 Projeto da Disciplina — Estrutura de Dados Avançados
+ *Professor:* Márcio Garrido  
+ *Aluna:* Tássia Nascimento
 ---
 
 # 🔒 ASCII-Math Crypto
