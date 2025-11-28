@@ -55,3 +55,17 @@ Requer **Python 3.10+**.
 
 ```bash
 python Crypto.py "Sua Mensagem Secreta Aqui"
+```
+**Saída:**
+
+- Lista criptografada  
+- Travessia pós-ordem da BST  
+- Arquivo `Msg.json` gerado  
+
+---
+
+### 🔓 2. Descriptografar (Decrypt.py)
+
+```bash
+python Decrypt.py
+
