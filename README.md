@@ -1,12 +1,12 @@
 # 🎓 Projeto da Disciplina — Estrutura de Dados Avançados
 
-**Professor:** Márcio Garrido  
-**Aluna:** Tássia Nascimento
+*Professor:* Márcio Garrido  
+*Aluna:* Tássia Nascimento
 ---
 
 # 🔒 ASCII-Math Crypto
 
-O objeitvo é demonstrar a aplicação da **Cifra Afim (Affine Cipher)** combinada com uma **Árvore Binária de Busca (BST)** para criptografar e descriptografar mensagens.  
+O objetivo é demonstrar a aplicação da **Cifra Afim (Affine Cipher)** combinada com uma **Árvore Binária de Busca (BST)** para criptografar e descriptografar mensagens.  
 O sistema transforma um texto em valores numéricos criptografados, armazena a saída em JSON e reconstrói a mensagem original aplicando o inverso modular.
 
 ---
