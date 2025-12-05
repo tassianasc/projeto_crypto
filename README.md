@@ -11,7 +11,7 @@ O sistema transforma um texto em valores numéricos criptografados, armazena a s
 ## 📁 Estrutura do Projeto
 
 ```plaintext
-📦 PROJETOCRYPTO
+📦 projetocrypto
  ┣ 📜 Crypto.py
  ┣ 📜 Decrypt.py
  ┣ 📜 Msg.json
@@ -21,7 +21,7 @@ O sistema transforma um texto em valores numéricos criptografados, armazena a s
 
 A Cifra Afim é definida pela fórmula:
 
-`E(x) = (A * x + B) mod M`
+`E(x) = (ax + b) mod M`
 
 ### 🔢 Parâmetros utilizados
 
